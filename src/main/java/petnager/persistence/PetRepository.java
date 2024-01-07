@@ -1,7 +1,6 @@
 package petnager.persistence;
 
 import java.util.List;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 import petnager.persistence.dto.PetEntityDto;
 import petnager.persistence.entity.PetEntity;
